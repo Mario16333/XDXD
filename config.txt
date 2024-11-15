@@ -1,0 +1,7 @@
+ch5mist advanced: inbound
+PSN: inbound
+XBOX: inbound
+PC: outbound
+GTA 6672: udp
+
+
